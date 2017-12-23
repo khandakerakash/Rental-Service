@@ -42,7 +42,7 @@ header {
     margin: 15px 0;
 }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+.btn-primary, .btn-primary:active, .btn-primary:visited {
     background-color: #2BBBAD!important;
 }
 

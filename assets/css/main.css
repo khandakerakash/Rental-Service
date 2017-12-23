@@ -46,6 +46,10 @@ header {
     background-color: #2BBBAD!important;
 }
 
+.btn-primary:hover {
+    background-color: #1abc9c!important;
+}
+
 .content-text h1 {
     font-weight: 400;
     font-size: 2.8em;
